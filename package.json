@@ -1,0 +1,11 @@
+{
+  "name": "recipeer",
+  "version": "1.0.0",
+  "description": "Your Peer in Creating Recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "April Dae Bation",
+  "license": "ISC"
+}
